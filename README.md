@@ -14,6 +14,9 @@ This project showcases a complete data engineering pipeline using Azure services
 
 **Power BI:** Developed interactive dashboards to visualize data and drive business intelligence.
 
+![image](https://github.com/user-attachments/assets/fd306588-0a76-4e7a-8d71-7c574a215944)
+
+
 **Key Highlights**
 
 ✅ Implemented a multi-layered data lake architecture (Bronze, Silver, Gold).
